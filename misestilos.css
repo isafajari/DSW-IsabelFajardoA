@@ -1,0 +1,21 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.titulo{
+    text-align: center;
+    
+}
+
+.menu{
+    padding: 20px;
+    background-color: #f08429;
+    justify-content: center;
+    
+}
+
+.tabla {
+    width: 80%;
+    margin: ;
+}
