@@ -1,12 +1,13 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
 
 .subtitulo{
     text-align: center;
     font-size: larger;
-    color: blueviolet;
+    color: white;
 }
 .titulo{
     text-align: center;
