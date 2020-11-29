@@ -43,10 +43,10 @@ body{
 #menu  #desple{
     display: none;
     position: absolute;
-    min-width: 220px;
+    min-width: 20px;
 }
 #menu  #item a:hover{
-    background: rgba(0, 102,204, 1);
+    background: rgb(92, 98, 104);
     color:rgba(011)
 }
 
