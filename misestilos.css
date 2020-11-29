@@ -15,14 +15,48 @@ body{
     font-size: xx-large;
 }
 
-.menu{
-    padding: 60px;
+#menu  ul {
+    list-style:none;
+    margin: 0;
+    padding: 0;
     background-color: #f08429;
     width: 100%;
     
 }
+#menu  #item{
+    float: left;
+
+}
+#menu  #item a{
+    background-color: #f08429;
+    color: teal;
+    padding: 12px   22px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+
+}
+    
+
+
+#menu  #desple{
+    display: none;
+    position: absolute;
+    min-width: 220px;
+}
+#menu  #item a:hover{
+    background: rgba(0, 102,204, 1);
+    color:rgba(011)
+}
+
+#menu  #item:hover #desple{
+    display: block;
+}
+        
+
 
 .tabla {
     width: 100%;
-    margin: ;
+    margin: 0;
 }
