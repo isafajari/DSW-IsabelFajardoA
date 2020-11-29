@@ -126,7 +126,7 @@ body{
     color:rgba(011)
 }
 
-#menu  #id:hover #desple{
+#menu  #item:hover #desple{
     display: block;
 }
         
