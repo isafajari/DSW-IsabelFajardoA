@@ -65,12 +65,13 @@ body{
     opacity: 0;
     visibility: hidden;
     position: absolute;
-    top: 38px;
+    top: 48px;
     left: 0;
     z-index: 1;
     background: linear-gradient(#2a4885, #577cc9);
-    box-shadow: 0 -1px 0 rbga(255, 255, 255, 0, 3);
+    box-shadow: 0 -1px 0 rbga(255, 255, 255, 0.3);
     border-radius: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
 }
 #menu li:hover  > ul{
     opacity: 1;
@@ -85,7 +86,7 @@ body{
 }
 #menu ul a{
     padding: 10px;
-    width: 150px;
+    width: 130px;
     display: block;
     white-space: nowrap;
     float: none;
