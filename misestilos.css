@@ -45,8 +45,8 @@ body{
 }
 #menu li{
     float: left;
-    border-right: 1px solid gray;
-    position: relative;
+    border-right: 4px solid gray;
+    position: absolute;
 }
 #menu  #item a{
     float: left;
