@@ -92,7 +92,7 @@ body{
     text-transform: none;
 }
 #menu ul a:hover{
-    background: linear-gradient(#2a4885, #577cc9);
+    background: linear-gradient(#2a4885, #920cc9);
 
 }
 #menu ul li:first-child > a:after{
@@ -126,7 +126,7 @@ body{
     color:rgba(011)
 }
 
-#menu  #item:hover #desple{
+#menu  #id:hover #desple{
     display: block;
 }
         
