@@ -48,7 +48,7 @@ body{
     border-right: 4px solid gray;
     position: relative;
 }
-#menu  #item a{
+#menu a{
     float: left;
     background-color: #f08429;
     color: #fff;
@@ -118,7 +118,7 @@ body{
 
 #menu  #desple{
     display: none;
-    position: absolute;
+    position: relative;
     min-width: 20px;
 }
 #menu  #item a:hover{
