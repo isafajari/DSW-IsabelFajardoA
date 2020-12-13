@@ -140,7 +140,7 @@ body{
 section{
     padding: 20px;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:400px){
    header nav {
        width: 80%;
        height: 100%;
