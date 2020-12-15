@@ -33,7 +33,7 @@ body{
 #menu:before,
 #menu:after{
     content: "";
-    display: both;
+    
 }
 #menu:after{
     clear: both;
