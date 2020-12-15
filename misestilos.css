@@ -24,7 +24,6 @@ body{
 #menu{
     width: 90%;
     margin: 60px auto;
-    border: 1px solido #107677;
     background: #111;
     background: linear-gradient(#2a4885, #577cc9);
     border-radius: 6px;
